@@ -1,9 +1,8 @@
-# CNN Course
+# Sequence Model Course
 
-Welcome to the CNN Course repository! This project provides resources, code, and examples for learning and implementing Convolutional Neural Networks (CNNs) using Python. Whether you're a beginner exploring deep learning or an enthusiast building practical applications, this repo offers a hands-on approach to mastering CNNs.
+Welcome to the Sequence Model Course! This repository provides resources, code examples, and tutorials for mastering sequence models in Python. Dive into Recurrent Neural Networks (RNNs), LSTMs, and their practical applications like audio transcription and time-series prediction.
 
 ## Overview
-
-- **Focus**: Understanding and applying Convolutional Neural Networks for tasks like image recognition, audio processing, or custom AI projects.
-- **Technologies**: Python, TensorFlow/PyTorch, SQLAlchemy (optional for database integration), Faster-Whisper (for audio tasks).
-- **Level**: Intermediate, with foundational concepts explained.
+- **Focus**: Sequence modeling with RNNs, LSTMs, and GRUs.
+- **Technologies**: Python, PyTorch/TensorFlow, Faster-Whisper (optional for audio).
+- **Level**: Intermediate, with foundational explanations.
